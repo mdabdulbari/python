@@ -1,8 +1,8 @@
-print "How old are you?",
-age = raw_input()
-print "How tall are you?",
-height = raw_input()
-print "How much do you weight?",
-weight = raw_input()
+print("How old are you?", end = ' ')
+age = input()
+print("How tall are you?", end = ' ')
+height = input()
+print("How much do you weight?", end = ' ')
+weight = input()
 
-print "So, you're %r old, %s tall and %r heavy." % (age, height, weight)
+print(f"So, you're {age} old, {height} tall and {weight} heavy.")

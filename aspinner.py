@@ -1,3 +1,3 @@
 while True:
     for i in ["/", "-" ,"|", "\\", "|"]:
-        print "%s\r" % i,
+        print(f"{i}\r", end ='')
