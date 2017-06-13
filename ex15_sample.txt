@@ -1,4 +1,3 @@
-Hell everyone
-Yes, this is a sample file
-I created this to test reading of files
-xD
+Mary had a little lamb
+Its fleece was white as snow
+It was also tasty
