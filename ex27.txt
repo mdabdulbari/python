@@ -1,0 +1,87 @@
+TRUTH TERMS
+
+AND
+OR
+NOT
+!= (not equal)
+== (equal)
+>= (greater-than-equal)
+<= (less-tha-equal)
+True
+False
+
+TRUTH TABLES
+------------
+          NOT
+-----------------------------
+NOT                     TRUE?
+-----------------------------
+not false               TRUE
+not true                FALSE
+-----------------------------
+
+
+          OR
+------------------------------
+OR                      TRUE?
+------------------------------
+True or False           TRUE
+True or True            TRUE
+False or True           TRUE
+False or False          FALSE
+-----------------------------
+
+
+        AND
+-----------------------------
+AND                     TRUE?
+-----------------------------
+True and False          FALSE
+True and True           TRUE
+False and True          FALSE
+False and False         FALSE
+-----------------------------
+
+
+      NOT OR
+-----------------------------
+NOT OR                  TRUE?
+-----------------------------
+not (True or False)     FALSE
+not (True or True)      FALSE
+not (False or True)     FALSE
+not (False or False)    TRUE
+-----------------------------
+
+
+      NOT AND
+-----------------------------
+NOT AND                 TRUE?
+-----------------------------
+not (True and False)    TRUE
+not (True and True)     FALSE
+not (False and True)    TRUE
+not (False and False)   TRUE
+-----------------------------
+
+
+      !=
+-----------------------------
+!=                      TRUE?
+-----------------------------
+1 != 0                  TRUE
+1 != 1                  FALSE
+0 != 1                  TRUE
+0 != 0                  FALSE
+-----------------------------
+
+
+      ==
+-----------------------------
+==                      TRUE?
+-----------------------------
+1 == 0                  FALSE
+1 == 1                  TRUE
+0 == 1                  FALSE
+0 == 0                  TRUE
+-----------------------------
