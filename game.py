@@ -65,7 +65,16 @@ class Quiz(Scene):
 
 class Questions(object):
     def question(self):
-        self.question = []
+        self.question = [
+            "Q. A farmer has 13 cows. A bolt of lightning kills all but 5 of them. How many cows survived?\n1. Zero\n2. Five\n3. Eight"]
+
+
+class Maze(Scene):
+    pass
+
+
+class Hall(Scene):
+    pass
 
 
 time = Time()

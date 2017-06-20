@@ -1,5 +1,7 @@
 import time
+
 i = 1
+
 while True:
     if i != 60:
         print(f"{i}\r", end='')

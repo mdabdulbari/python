@@ -1,0 +1,24 @@
+Q: A farmer has 13 cows. A bolt of lightning kills all but 5 of them. How many cows survived?
+    1. Zero
+    2. Five
+    3. Eight
+
+Q: Your computer is loading. It tells you to press any key. What do you do?
+    1. Look for the "any key" button
+    2. Press any button you want
+    3. Press the A, N and Y keys all at once
+
+Q: Which is greater: six dozen dozen or half a dozen dozen?
+    1. Six Dozen dozen
+    2. Half a Dozen Dozen
+    3. Both Equal
+
+Q: How many months are in a decade?
+    1. 120
+    2. 100
+    3. 1200
+    
+Q: The day before yesterday, Suzie was 17. Next year, she will be 20. What day is her birthday?
+    1. Jan 1st
+    2. Dec 31st
+    3. None of the above
